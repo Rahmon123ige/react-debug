@@ -4,7 +4,7 @@ import TodoList from "./component/TodoList/TodoList";
 function App() {
   const [todos, setTodos] = useState([
     { id: 1, text: "Learn React" },
-    { id: 2, text: "Build a project" },
+    { id: 2, text: "Anu is a good girl" },
   ]);
 
   const addTodo = (newTodo) => {

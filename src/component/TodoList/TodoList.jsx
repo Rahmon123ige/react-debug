@@ -6,7 +6,7 @@ function TodoList({ todos, onAddTodo }) {
 
   const handleSubmit = () => {
     if (input.trim() === "") {
-      alert("No empty todos please 😅");
+      alert("No empty todos please 🔫🔫🔫🔫🔫🔫");
       return;
     }
     onAddTodo(input);
